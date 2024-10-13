@@ -41,3 +41,8 @@
 ⚡ **Curiosidade**:  
 Adoro me desafiar em diferentes áreas, seja aprendendo algo novo em tecnologia ou buscando novas formas de me manter ativo e saudável!
 
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/OtavioAdsBr/OtavioAdsBr/output/snake.svg" alt="Snake animation" />
+
+###
