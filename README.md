@@ -1,3 +1,5 @@
+## Olá! 👋 Eu sou Otávio!
+
 ###
 
 <div style="display: inline_block">
@@ -8,28 +10,6 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
-
-
-
-## Olá! 👋 Eu sou Otávio!
-
-🔭 **Atualmente**:  
-- Estudante de Análise e Desenvolvimento de Sistemas.  
-- Com metas pessoais de desenvolvimento e aprendendo mais sobre finanças e tecnologias.  
-- Desenvolvendo projetos focados em tecnologia.
-
-🌱 **Aprendendo**:  
-- Melhorando minhas habilidades de programação Full Stack.  
-- Aprofundando conhecimentos em desenvolvimento Full Stack para criar soluções mais eficazes.
-
-👯 **Buscando colaborar em**:  
-- Projetos que envolvam (Tecnologia e Ferramentas), especialmente aqueles que busquem resolver problemas relevantes.
-
-📫 **Como entrar em contato**:  
-- Me envie uma mensagem no [LinkedIn](https://linkedin.com/in/otaviovinicius05).
-
-⚡ **Curiosidade**:  
-- Adoro me desafiar em diferentes áreas, seja aprendendo algo novo em tecnologia ou buscando novas formas de me manter ativo e saudável!
 
 - ## Tecnologias que eu uso no meu dia
 
@@ -51,4 +31,20 @@
   <img align="center" alt="react" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
+
+🔭 **Atualmente**:  
+- Estudante de Análise e Desenvolvimento de Sistemas.  
+- Com metas pessoais de desenvolvimento e aprendendo mais sobre finanças e tecnologias.  
+
+🌱 **Aprendendo**:  
+- Melhorando minhas habilidades de programação Full Stack.  
+
+👯 **Buscando colaborar em**:  
+- Projetos que envolvam (Tecnologia e Ferramentas), especialmente aqueles que busquem resolver problemas relevantes.
+
+📫 **Como entrar em contato**:  
+- Me envie uma mensagem no [LinkedIn](https://linkedin.com/in/otaviovinicius05).
+
+⚡ **Curiosidade**:  
+- Adoro me desafiar em diferentes áreas, seja aprendendo algo novo em tecnologia ou buscando novas formas de me manter ativo e saudável!
 
