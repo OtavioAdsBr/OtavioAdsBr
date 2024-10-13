@@ -26,18 +26,17 @@
 ###
 
 🔭 **Atualmente**:  
-- Estudante de Análise e Desenvolvimento de Sistemas.  
-- Com metas pessoais de desenvolvimento e aprendendo mais sobre finanças e tecnologias.  
+ Estudante de Análise e Desenvolvimento de Sistemas.  
+ Com metas pessoais de desenvolvimento e aprendendo mais sobre finanças e tecnologias.  
 
 🌱 **Aprendendo**:  
-- Melhorando minhas habilidades de programação Full Stack.  
+ Melhorando minhas habilidades de programação Full Stack.  
 
 👯 **Buscando colaborar em**:  
-- Projetos que envolvam (Tecnologia e Ferramentas), especialmente aqueles que busquem resolver problemas relevantes.
+ Projetos que envolvam (Tecnologia e Ferramentas), especialmente aqueles que busquem resolver problemas relevantes.
 
 📫 **Como entrar em contato**:  
-- Me envie uma mensagem no [LinkedIn](https://linkedin.com/in/otaviovinicius05).
+ Me envie uma mensagem no [LinkedIn](https://linkedin.com/in/otaviovinicius05).
 
-⚡ **Curiosidade**:  
-- Adoro me desafiar em diferentes áreas, seja aprendendo algo novo em tecnologia ou buscando novas formas de me manter ativo e saudável!
+⚡ **Curiosidade**:   Adoro me desafiar em diferentes áreas, seja aprendendo algo novo em tecnologia ou buscando novas formas de me manter ativo e saudável!
 
