@@ -12,9 +12,6 @@
 👯 **Buscando colaborar em**:  
 - Projetos que envolvam (Tecnologia e Ferramentas), especialmente aqueles que busquem resolver problemas relevantes.
 
-💬 **Pergunte-me sobre**:  
-- Finanças e como equilibro meus estudos com projetos de tecnologia!
-
 📫 **Como entrar em contato**:  
 - Me envie uma mensagem no [LinkedIn](https://linkedin.com/in/otaviovinicius05).
 
@@ -22,6 +19,16 @@
 - Adoro me desafiar em diferentes áreas, seja aprendendo algo novo em tecnologia ou buscando novas formas de me manter ativo e saudável!
 
 - ## Tecnologias que eu uso no meu dia
+
+- <br clear="both">
+
+<div align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=OtavioAdsBr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OtavioAdsBr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="151" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioAdsBr&radius=16&theme=dracula&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
+
+###
 
 <div style="display: inline_block">
   <img align="center" alt="html5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
