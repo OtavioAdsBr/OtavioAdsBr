@@ -1,16 +1,22 @@
-## Hi there 👋
+Olá! 👋 Eu sou Otávio!
+🔭 Atualmente:
 
-<!--
-**OtavioAdsBr/OtavioAdsBr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Estudante de Análise e Desenvolvimento de Sistemas.
+Com metas pessoais de desenvolvimento e aprendendo mais sobre finanças e tecnologias.
+Desenvolvendo projetos focados em tecnologia.
+🌱 Aprendendo:
 
-Here are some ideas to get you started:
+Melhorando minhas habilidades de programação Full Stack.
+Aprofundando conhecimentos em desenvolvimento Full Stack para criar soluções mais eficazes.
+👯 Buscando colaborar em:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Projetos que envolvam (Tecnologia e Ferramentas), especialmente aqueles que busquem resolver problemas relevantes.
+💬 Pergunte-me sobre:
+
+Finanças e como equilibro meus estudos com projetos de tecnologia!
+📫 Como entrar em contato:
+
+Me envie uma mensagem no LinkedIn.
+⚡ Curiosidade:
+
+Adoro me desafiar em diferentes áreas, seja aprendendo algo novo em tecnologia ou buscando novas formas de me manter ativo e saudável!
