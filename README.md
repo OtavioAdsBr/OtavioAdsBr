@@ -1,6 +1,6 @@
 <div align="center">
   
-## Olá! 👋 Eu sou Otávio!
+## Fala aí, sou o Otávio, prazer em conectar! 🚀
 
 ###
 <div align="center">
@@ -13,14 +13,14 @@
   <img align="center" alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
 </div><br/>
 
-## Tecnologias que eu uso no meu dia
+## As stacks que movem meus projetos todo dia! 🛠️
 
 <br clear="both">
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=OtavioAdsBr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1&custom_title=Estat%C3%ADsticas" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OtavioAdsBr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2&custom_title=Minhas%20Linguagens" height="151" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OtavioAdsBr&radius=16&theme=dracula&area=true&order=5&custom_title=%20Gr%C3%A1fico%20de%20Contribui%C3%A7%C3%A3o" height="300" alt="activity-graph graph"  />
+  
 </div>
 
 ###
@@ -36,8 +36,6 @@
  Projetos que envolvam (Tecnologia e Ferramentas), especialmente aqueles que busquem resolver problemas relevantes.
 
 📫 **Como entrar em contato**:  
- Me envie uma mensagem no [LinkedIn](https://linkedin.com/in/otaviovinicius05).
+ Me envie uma mensagem no [LinkedIn](https://linkedin.com/in/otaviovinicius05). [Instagram](https://www.instagram.com/pele.bra).
 
-⚡ **Curiosidade**:  
-Adoro me desafiar em diferentes áreas, seja aprendendo algo novo em tecnologia ou buscando novas formas de me manter ativo e saudável!
 
